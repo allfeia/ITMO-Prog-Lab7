@@ -1,0 +1,31 @@
+package Commands;
+
+import Collection.CollectionManager;
+import ConnectionUtils.Request;
+import ConnectionUtils.Response;
+import Data.Movie;
+
+import java.io.Serial;
+import java.io.Serializable;
+
+public class PrintUniqueGenre implements Command, Serializable {
+    private static final long serialVersionUID = 101l;
+
+    @Override
+    public Response execute(String login, Object args, Movie movie, CollectionManager collectionManager) {
+        if (args == null) throw new IllegalArgumentException("no arguments");
+        return collectionManager.printUniqueMovieGenre();
+    }
+
+    @Override
+    public String description() {
+        return "print_unique_genre: get unique genres in collection";
+    }
+
+    @Override
+    public String getName(){
+        return "print_unique_genre";
+    }
+
+}
+

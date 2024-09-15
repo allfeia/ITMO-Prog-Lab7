@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a851ee-669d-4800-9d28-6d1d468941a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/artifacts/Lab6_Client1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/out/artifacts/Lab6_Client1_jar/Lab6_Client1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Collection/CollectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Collection/CollectionUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Collection/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/AddIfMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/AddIfMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Clear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/ExecuteScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/GroupCountingByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/History.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/PrintUniqueGenre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/RemoveById.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/SumOfOscarsCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Commands/UpdateId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/ConnectionUtils/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/ConnectionUtils/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/ConnectionUtils/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/ConnectionUtils/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/MovieGenre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/MpaaRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Forms/MovieAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Forms/MovieBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Forms/PersonBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Utils/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/Utils/ScriptRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/java/execute_script1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Client1/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/artifacts/Lab6_Server1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/out/artifacts/Lab6_Server1_jar/Lab6_Server1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/server_logs.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Authorisation/PasswordManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Authorisation/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Collection/CollectionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Collection/CollectionUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Collection/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/AddIfMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/AddIfMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Clear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/ExecuteScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/GroupCountingByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/History.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/PrintUniqueGenre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/RemoveById.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/Show.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/SumOfOscarsCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Commands/UpdateId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/ConnectionUtils/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/ConnectionUtils/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/IdGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/MovieGenre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/MpaaRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Data/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/DataBase/DataBaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/DataBase/DataBaseParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/DataBase/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/DataBase/QueryMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Utils/CommandManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Utils/ConnectionManagerPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Utils/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Utils/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/java/Utils/ServerLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7_Server1/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2lfLc2dM4W1KQ7PUi4xGjqQdKnh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/VikTester/Desktop/ED/orders/Alice/Lab7/Lab7_Client1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a851ee-669d-4800-9d28-6d1d468941a4" name="Changes" comment="" />
+      <created>1725566259782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725566259782</updated>
+      <workItem from="1725566260751" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

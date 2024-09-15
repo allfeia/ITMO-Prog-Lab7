@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-09-15T17:07:04.996688Z</date>
+  <millis>1726420024996</millis>
+  <nanos>688000</nanos>
+  <sequence>0</sequence>
+  <logger>Utils.ServerLogger</logger>
+  <level>INFO</level>
+  <class>DataBase.DataBaseManager</class>
+  <method>connect</method>
+  <thread>1</thread>
+  <message>Connection Established</message>
+</record>
+</log>
